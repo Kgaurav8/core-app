@@ -29,14 +29,14 @@
       <uniqueVersion>false</uniqueVersion>
       <id>core-releases</id>
       <name>core-releases</name>
-      <url>http://54.177.243.80:8081/repository/core-releases/</url>
+      <url>http://3.87.229.185:8081/repository/core-releases/</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>core-snapshots</id>
       <name>core-snapshots</name>
-      <url>http://54.177.243.80:8081/repository/core-snapshots/</url>
+      <url>http://3.87.229.185:8081/repository/core-snapshots/</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
