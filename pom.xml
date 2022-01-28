@@ -39,5 +39,5 @@
       <url>http://3.87.229.185:8081/repository/core-snapshots/</url>
       <layout>legacy</layout>
     </snapshotRepository>
-  </distributionManagement>
+  </distributionManagement> 
 </project>
